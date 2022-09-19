@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Isaacans
-- 👀 I’m interested in ... Solo Game Dev
-- 🌱 I’m currently learning ... C# and Unity
+- 👀 I’m interested in ... Web Development
+- 🌱 I’m currently learning ... Following The Odin Project
 - 💞️ I’m looking to collaborate on ... Nothing at this point :(
 - 📫 How to reach me ... Does GitHub allow DMs?
 
